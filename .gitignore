@@ -1,0 +1,9 @@
+exoplanet-ml/.venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+exoplanet-ml/data/
+exoplanet-ml/models/*.h5
+exoplanet-ml/models/*.pkl
+.env
